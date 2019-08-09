@@ -1,0 +1,7 @@
+[FORMAT]
+indent-string='  '
+indent-after-paren=4
+max-line-length=200
+
+[MISCELLANEOUS]
+notes=FIXME,XXX,TODO

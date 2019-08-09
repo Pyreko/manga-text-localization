@@ -1,0 +1,7 @@
+pylint
+yapf
+pytesseract
+opencv-python
+pillow
+imutils
+rope
