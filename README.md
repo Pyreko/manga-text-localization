@@ -4,6 +4,8 @@ OCRs text.  Intended for use with manga pages, but could probably be extended to
 
 Note this is not complete!  As such, it won't work really well.
 
+**Note**: This was initially made for <https://guya.moe>, and due to this tool being a bit of a pain to use, I settled on working with Azure via [KaguyaOCR](https://github.com/Pyreko/KaguyaOCR) instead.  See that instead ~~though that's also going to get deprecated for another tool I'm working on~~.
+
 ## To use:
 
 1.  Create a venv
